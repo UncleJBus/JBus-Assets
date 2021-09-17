@@ -28,6 +28,7 @@ return {
 		38847782;	--Wooden Epic Face
 		1494159658;	--Transparent Epic Face
 		12128337;	--Epic Joker Face
+		3211431830;	--Thomas Epic Face
 
 	},
 
