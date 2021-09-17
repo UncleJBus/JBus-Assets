@@ -1,7 +1,7 @@
 return {
 	happy = {
 		7477949953;	--Andrew Epicson
-		7477954089; --Epic Face HD
+		7477954089;	--Epic Face HD
 		7477950792;	--Lua Epic Face
 		7478870306;	--Roblox Epic Face Remastered HD 4k RTX Blueray
 		165386907;	--United States Epic Face
