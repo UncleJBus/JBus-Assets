@@ -1,3 +1,4 @@
+--v0.0.1
 return {
 	sounds = {
 		3059456495,--DEEZ
@@ -617,8 +618,88 @@ return {
 		549313210,--Portal Alarm
 		5652630520,--Innovation Inc. Thermal Power Plant - Violation
 		5820171104,--Innovation Inc. Thermal Power Plant - Nuclear Mission Jam
+		
+		8749386406,--Scream 4003_13_5
+		4880081893,--Toilet Scream
+		4880080030,--Toilet Scream 2
+		1329112776,--Mouse
+		1352278155,--Witch Melting
+		138167455,--Witch Melting 2
+		6362574726,--Keemstar heeHAHeeh
+		5169626214,--Scream
+		
+		4588405910,--Train Wheels
+		214182275,--Snoring
+		
+		8736306086,--Siren 6056_91
+		
+		267154400,--Thunder Clap
+		2164446511,--Volcano Grumbling
+		1621637197,--Volcano Erupt
+		1767358533,--Volcano Erupt Far Away
+		386218793,--Volcano Erupt 2
+		4157225495,--Rain
+		6444058245,--Indoor Rain
+		2020936390,--Wind
+		2521556768,--Crowd
+		329308062,--Water Soak
+		131261549,--Waterfall
+		2218767018,--tapwater
+		181604109,--Duck
+		
+		3235809147,--GTA SA - Theme Song (Crispy & Bassy)
+		2483029612,--GTA SA - Alert
+		316387528, --GTA IV - Startup & loading
+		8732619002,--GTA IV - Info Beep
+		6760599334,--GTA IV - Menu Drums
+		153239830, --GTA V  - Wasted
+		7063163403,--GTA V  - Wasted (Online Version)
+		6066470143,--GTA V  - Loading Theme
+		2834812095,--GTA V  - Motocop Siren
+		
+		7449956055,--HL2 - Male_01Answer
+		145143628, --HL2 - Male_Funny_06
+		6929506713,--HL2 - Male_Help_01
+		6371758602,--HL2 - male_ow_01
+		6371759336,--HL2 - male_ow_02
+		6371760398,--HL2 - male_pain_07
+		6371759888,--HL2 - male_pain_06
+		7429749601,--HL2 - Combine_01_Male
+		7227843922,--HL2 - .357 Reload
+		6441667726,--HL2 - HL2_EXPLODE_1
+		6441668191,--HL2 - HL2_EXPLODE_2
+		4593020878,--HL2 - Combine Death
+		
+		291535925,--Black Mesa - soundscape_farjet3
+		
+		5917818276,--TF2 - Computer Ambience
+		
+		152780387,--Valve Theme
+		
+		7977064008,--Regular Show Outro
+		
+		7035035790,--Fire Alarm Chirp
+		8821622100,--Eric Andre Show Applause (YEAH!)
+		
+		3228161916,--Incubus - Redefine
+		1271553572,--Incubus - Vitamin
+		1044858407,--Incubus - New Skin
+		1880710124,--Incubus - New Skin (alt)
+		4695365193,--Incubus - Anna Molly (Compressed/Slightly Corruptedd)
+		
+		1572878007,--Kevin MacLeod - Fluffing a Duck
+		938222690, --Kevin MacLeod - Cannery?
+		680782494, --Kevin MacLeod - There It Is
+		3318704921,--Kevin MacLeod - Cipher
+		233509061, --Kevin MacLeod - Mechanolith
+		626925934, --Kevin MacLeod - Wallpaper
+		1352553085,--Kevin MacLeod - The Dread
+		7014679784,--Kevin MacLeod - Investigations
+		5547359775,--Kevin MacLeod - Apprehension
 	};
 	
+	-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 	images = {
 		4637746372,
 		5365990711,
@@ -737,11 +818,7 @@ return {
 		7231071942,
 		7231071304,
 		7234213143,
-		6746129118,
-		5685109655,
-		6794710164,
 		5630798107,
-		5663289680,
 		5822814132,
 		3266353541,
 		4370447924,
@@ -749,16 +826,13 @@ return {
 		6405480558,
 		833844271,
 		5226712582,
-		5190838561,
 		5182321582,
 		5192019624,
 		5182320704,
 		5192019624,
 		5192019624,
 		2878077258,
-		4998895345,
-		4401185067,
-		4998896173,
+		4401185067,--extreme bog
 		4740151771,
 		3249556692,
 		4832632491,
@@ -973,5 +1047,51 @@ return {
 		386052078,
 		5655625024,
 		135912427,
+		
+		8782637295,--Smith's Diner
+		
+		6934678703,--Incubus
+		8755742386,--Light Grenades
+		8755692581,--A Crow Left
+		8755779663,--Morning View
+		8755768534,--Make Yourself
+		8755756417,--Science
+		
+		8664993337,--Adore
+		4592408839,--Siamese Dream
+		171769164,--Mellon Collie
+		
+		5764837750,--Mouth Dreams
+		5356374874,--Nature Tapes
+		5362548813,--Mouth Sounds
+		5362549518,--Mouth Silence
+		4808524575,--Spirit Phone
+		5356378034,--Mouth Moods
+		
+		5356347781,--The Dark Age of Nintendo
+		5340923101,--The Great Mysteries Of Gaming
+		5340921941,--It's Awesome Baby!
+		
+		2849883153,--CallMeCarson
+		3787599307,--CallMeCarson Crying
+		13364354,--THE ANGRY VIDEO GAME NERD!!!!!!
+		4963498088,--Sans
+		2897195346,--Scott The Woz
+		1210095943,--Shrekcynacle
+		
+		2766180433,--Backpack Icon
+		
+		6319951708,--juangamer62
+		8599590107,--Take the employee elevator
+		8811441395,--Python > Javascript
+		7314975005,--HLOF Engineer
+		43938430,--Engineer
+		6956298667,--Engine
+		4969175051,--Fire Engine
+		114668309,--I r engineer (Fixed)
+		1210436773,--PvZ Engineer
+		
+		--illness
+		
 	};
 }
