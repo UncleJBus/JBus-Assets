@@ -1,4 +1,4 @@
---v0.1.0
+--v0.1.1
 return {
 	sounds = {
 		["Deez"]                                               = 3059456495;
@@ -648,6 +648,14 @@ return {
 		["Startup6"]                                           = 4580963836;
 		["Kevin ###### There it is"]                           = 680782494;
 		["Apprehension-Kevin MacLeod"]                         = 5547359775;
+		["android tada notification sound"]                    = 7695856187;
+		["android pixie dust notification sound"]              = 7695983456;
+		["android notification"]                               = 7044215580;
+		["salami lid"]                                         = 5446432744;
+		["the salami lid"]                                     = 7118195806;
+		["Eatin a burger with no honey mustard"]               = 8902771546;
+		["What do you mean by that?"]                          = 7715572847;
+		["arcade_13"]                                          = 8902853415;
 	};
 
 	-------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1459,5 +1467,9 @@ return {
 		["Vinesauce Meat 4"] = 4529957264;
 		["Error"] = 136075117;
 		["Vinesauce Meat 2"] = 4529948125;
+		["arcade_13"]                                          = 8902853415;
+		["Eatin a burger with no honey mustard"]               = 8902771546;
+		["What do you mean by that?"]                          = 7715572847;
+		["gta sa alert"]                                       = 2483029612;
 	};
 }
