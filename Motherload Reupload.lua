@@ -656,6 +656,23 @@ return {
 		["Eatin a burger with no honey mustard"]               = 8902771546;
 		["What do you mean by that?"]                          = 7715572847;
 		["arcade_13"]                                          = 8902853415;
+		["SHUT UP"]                                            = 131829530;
+		["Schizophrenia 1"]                                    = 622848003;
+		["Schizophrenia 2"]                                    = 5302157967;
+		["WICKED SICK"]                                        = 937906049;
+		["UNSTOPPABLE"]                                        = 205012175;
+		["RAMPAGE"]                                            = 937900118;
+		["MEGA KILL"]                                          = 937895810;
+		["KILLING SPREE"]                                      = 937898383;
+		["ULTRA KILL"]                                         = 938073601;
+		["YOU HAVE FAILED"]                                    = 6410921736;
+		["DENIED"]                                             = 6410921260;
+		["GODLIKE"]                                            = 205020732;
+		["DOUBLE KILL"]                                        = 937894293;
+		["TRIPLE KILL"]                                        = 6410923021;
+		["MONSTER KILL"]                                       = 938076502;
+		["Sad Trombone"]                                       = 138124641;
+		["Alert"]                                              = 5914883816;
 	};
 
 	-------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1471,5 +1488,22 @@ return {
 		["Eatin a burger with no honey mustard"]               = 8902771546;
 		["What do you mean by that?"]                          = 7715572847;
 		["gta sa alert"]                                       = 2483029612;
+		["SHUT UP"]                                            = 131829530;
+		["Schizophrenia 1"]                                    = 622848003;
+		["Schizophrenia 2"]                                    = 5302157967;
+		["WICKED SICK"]                                        = 937906049;
+		["UNSTOPPABLE"]                                        = 205012175;
+		["RAMPAGE"]                                            = 937900118;
+		["MEGA KILL"]                                          = 937895810;
+		["KILLING SPREE"]                                      = 937898383;
+		["ULTRA KILL"]                                         = 938073601;
+		["YOU HAVE FAILED"]                                    = 6410921736;
+		["DENIED"]                                             = 6410921260;
+		["GODLIKE"]                                            = 205020732;
+		["DOUBLE KILL"]                                        = 937894293;
+		["TRIPLE KILL"]                                        = 6410923021;
+		["MONSTER KILL"]                                       = 938076502;
+		["Sad Trombone"]                                       = 138124641;
+		["Alert"]                                              = 5914883816;
 	};
 }
