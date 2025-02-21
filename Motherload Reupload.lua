@@ -1,4 +1,4 @@
---v0.2.5
+--v0.3.0
 return {
 	--[[
 		[""] = {
@@ -28,11 +28,11 @@ return {
 		["CHECKPOINT2"] = {
 			SoundId = "rbxassetid://"..531095578,
 		};
-		
+
 		["Postal_2_Arcade"] = {
 			SoundId = "rbxassetid://"..6678172126,
 		};
-		
+
 		--Roblox Sounds
 		["bass.wav"] = {
 			SoundId = "rbxassetid://"..12221831,
@@ -45,7 +45,7 @@ return {
 		["bloxy cola open (high quality)"] = {
 			SoundId = "rbxassetid://"..6811412838,
 		};
-		
+
 		--Misc
 		["Clickbait Ding"] = {
 			SoundId = "rbxassetid://"..317553816,
@@ -114,7 +114,7 @@ return {
 				Highest = 100,
 			},
 		};
-		
+
 		["WPP Hi"] = {
 			SoundId = "rbxassetid://"..154147007,
 			Pitch = {
@@ -122,7 +122,7 @@ return {
 				Highest = 100,
 			},
 		};
-		
+
 		["WPP Sad"] = {
 			SoundId = "rbxassetid://"..154146535,
 			Pitch = {
@@ -130,7 +130,7 @@ return {
 				Highest = 100,
 			},
 		};
-		
+
 		["WPP Scared"] = {
 			SoundId = "rbxassetid://"..154157563,
 			Pitch = {
@@ -138,7 +138,7 @@ return {
 				Highest = 100,
 			},
 		};
-		
+
 		["WPP Angry"] = {
 			SoundId = "rbxassetid://"..154157312,
 			Pitch = {
@@ -146,7 +146,7 @@ return {
 				Highest = 100,
 			},
 		};
-		
+
 		["WPP Laugh"] = {
 			SoundId = "rbxassetid://"..154157543,
 			Pitch = {
@@ -154,7 +154,7 @@ return {
 				Highest = 100,
 			},
 		};
-		
+
 		["WPP Excited"] = {
 			SoundId = "rbxassetid://"..154157524,
 			Pitch = {
@@ -162,7 +162,7 @@ return {
 				Highest = 100,
 			},
 		};
-		
+
 		["WPP Smoke Alarm"] = {
 			SoundId = "rbxassetid://"..1034176638,
 		};
@@ -626,23 +626,23 @@ return {
 		["Steel obby scream"] = {
 			SoundId = "rbxassetid://"..527970724,
 		};
-		
+
 		["tf2-comment000"] = {
 			SoundId = "rbxassetid://"..13264425708,
 		};
-		
+
 		["Laugh"] = {
 			SoundId = "rbxassetid://"..7214309736,
 		};
-		
+
 		["chair crash 2"] = {
 			SoundId = "rbxassetid://"..9113766473,
 		};
-		
+
 		["comic tube doink 7"] = {
 			SoundId = "rbxassetid://"..9113864447,
 		};
-		
+
 		["vehicle crash 1"] = {
 			SoundId = "rbxassetid://"..9120368953,
 		};
@@ -742,19 +742,19 @@ return {
 		["hl1 who ate donuts"] = {
 			SoundId = "rbxassetid://"..3852351802,
 		};
-		
+
 		["whelen dtmf"] = {
 			SoundId = "rbxassetid://"..254713180,
 		};
-		
+
 		["West Minster Chimes"] = {
 			SoundId = "rbxassetid://"..4993566633,
 		};
-		
+
 		["whelen alt yelp"] = {
 			SoundId = "rbxassetid://"..7123094651,
 		};
-		
+
 		["Whelen Cencom Sapphire HWLR"] = {
 			SoundId = "rbxassetid://"..549091225,
 		};
@@ -854,11 +854,11 @@ return {
 		["IrineuVoc no sabe nem eu"] = {
 			SoundId = "rbxassetid://566298768",
 		};
-		
+
 		["fart"] = {
 			SoundId = "rbxassetid://3068648094",
 		};
-		
+
 		["Pls remain calm"] = {
 			SoundId = "rbxassetid://6661748494",
 		};
@@ -895,8 +895,404 @@ return {
 		["Quickscope Horn 100 noscopes"] = {
 			SoundId = "rbxassetid://165695059",
 		};
+		
+		--NDS Clone
+		["gravitycoil"] = {
+			SoundId = "rbxassetid://16619553",
+		};
+		["beep_6281084801"] = {
+			SoundId = "rbxassetid://6281084801",
+		};
+		["usemedkit"] = {
+			SoundId = "rbxassetid://15372684",
+		};
+		["jackpotepicsound"] = {
+			SoundId = "rbxassetid://17637528980",
+		};
+		["ogoofreal"] = {
+			SoundId = "rbxassetid://5143383166",
+		};
+		["Overture of 1812"] = {
+			SoundId = "rbxassetid://1836281736",
+		};
+		["time ticking"] = {
+			SoundId = "rbxassetid://25320997",
+		};
+		["avacados from mexico"] = {
+			SoundId = "rbxassetid://2834628644",
+		};
+		["starspangledbanger"] = {
+			SoundId = "rbxassetid://1840297374",
+		};
+		
+		--Maple
+		["Beep!"] = {
+			SoundId = "rbxassetid://138081500",
+		};
+		["2015 Dodge Charger V6 Idle"] = {
+			SoundId = "rbxassetid://6399923126",
+		};
+		["Truck Reverse Beep"] = {
+			SoundId = "rbxassetid://5471186812",
+		};
+		["Truck air brakes"] = {
+			SoundId = "rbxassetid://474165890",
+		};
+		["Airbrakes"] = {
+			SoundId = "rbxassetid://1724599874",
+		};
+		["Camera Shutter Effect"] = {
+			SoundId = "rbxassetid://515689563",
+		};
+		["TTD Tires Squeal"] = {
+			SoundId = "rbxassetid://6015314766",
+		};
+		["Car Lock"] = {
+			SoundId = "rbxassetid://138111999",
+		};
+		["CENCOM_WAIL"] = {
+			SoundId = "rbxassetid://5615473595",
+		};
+		["crash"] = {
+			SoundId = "rbxassetid://6333718144",
+		};
+		["Indicators"] = {
+			SoundId = "rbxassetid://5176158999",
+		};
+		["alphahilo"] = {
+			SoundId = "rbxassetid://8990352008",
+		};
+		["Car Alarm 1"] = {
+			SoundId = "rbxassetid://540391924",
+		};
+		["alarm_6472682393"] = {
+			SoundId = "rbxassetid://6472682393",
+		};
+		["alarm_3102181600"] = {
+			SoundId = "rbxassetid://3102181600",
+		};
+		["Success!"] = {
+			SoundId = "rbxassetid://5153737200",
+		};
+		["Laser Short"] = {
+			SoundId = "rbxassetid://1836246284",
+		};
+		["machinery"] = {
+			SoundId = "rbxassetid://3941928377",
+		};
+		["Freddy Honk"] = {
+			SoundId = "rbxassetid://5416608686",
+		};
+		["fluorescent_light_humming"] = {
+			SoundId = "rbxassetid://861763986",
+		};
+		["Beretta M9 Gunshot"] = {
+			SoundId = "rbxassetid://799960407",
+		};
+		["gun Bolt pull"] = {
+			SoundId = "rbxassetid://936403709",
+		};
+		["HitMarker Sound Effect"] = {
+			SoundId = "rbxassetid://705502934",
+		};
+		["Metal_01"] = {
+			SoundId = "rbxassetid://1565756607",
+		};
+		["Five Seven Gunshot"] = {
+			SoundId = "rbxassetid://2903561024",
+		};
+		["gunslideold"] = {
+			SoundId = "rbxassetid://138244068",
+		};
+		["PlayerHitBody5"] = {
+			SoundId = "rbxassetid://363818653",
+		};
+		["Heavy Bullet Snap 0"] = {
+			SoundId = "rbxassetid://342190488",
+		};
+		["Alert_Sound_Efffect"] = {
+			SoundId = "rbxassetid://6176997734",
+		};
+		["Graphic Tone Continuous"] = {
+			SoundId = "rbxassetid://9114654366",
+		};
+		["Chat Close"] = {
+			SoundId = "rbxassetid://1293432192",
+		};
+		["Police Radio 1 (SFX)"] = {
+			SoundId = "rbxassetid://9117745168",
+		};
+		["C3MHyperYelp"] = {
+			SoundId = "rbxassetid://570745555",
+		};
+		["maplecarhorn"] = {
+			SoundId = "rbxassetid://9165115951",
+		};
+		["Air Pressure Scuba Gear 2 (SFX)"] = {
+			SoundId = "rbxassetid://9113073381",
+		};
+		["C3MYelp"] = {
+			SoundId = "rbxassetid://570745478",
+		};
+		["C3MWail"] = {
+			SoundId = "rbxassetid://570745360",
+		};
+		["FSManualOgg"] = {
+			SoundId = "rbxassetid://2791478384",
+		};
+		["Powercall 6-Adam Siren"] = {
+			SoundId = "rbxassetid://145409221",
+		};
+		["MAN Engine Start"] = {
+			SoundId = "rbxassetid://539093293",
+		};
+		["X26Charge2"] = {
+			SoundId = "rbxassetid://2867366952",
+		};
+		["X26Fire"] = {
+			SoundId = "rbxassetid://2867305952",
+		};
+		["Crown Vic startup"] = {
+			SoundId = "rbxassetid://4990419238",
+		};
+		["somearcadesound"] = {
+			SoundId = "rbxassetid://1841791601",
+		};
+		["Angelic Sting"] = {
+			SoundId = "rbxassetid://1841323713",
+		};
+		["Fire Extinguisher 1 (SFX)"] = {
+			SoundId = "rbxassetid://9114437231",
+		};
+		["glass_bullet_impact_05"] = {
+			SoundId = "rbxassetid://4668970412",
+		};
+		["GM Diesel Truck Startup"] = {
+			SoundId = "rbxassetid://1321282038",
+		};
+		["FemaleHmm2"] = {
+			SoundId = "rbxassetid://6998298424",
+		};
+		["male hmm 1"] = {
+			SoundId = "rbxassetid://6998283230",
+		};
+		["WN2Hilo"] = {
+			SoundId = "rbxassetid://416079909",
+		};
+		["NO SHOCK ADVISED"] = {
+			SoundId = "rbxassetid://8728926165",
+		};
+		["SHOCK ADVISED"] = {
+			SoundId = "rbxassetid://9165133301",
+		};
+		["defib charge"] = {
+			SoundId = "rbxassetid://9165093664",
+		};
+		["HD Chainsaw Sound"] = {
+			SoundId = "rbxassetid://5635316178",
+		};
+		["ELS Beep"] = {
+			SoundId = "rbxassetid://3360180341",
+		};
+		
+		--PizzaPlace
+		["pop6"] = {
+			SoundId = "rbxassetid://2645313488",
+		};
+		["entrancedoorbell"] = {
+			SoundId = "rbxassetid://171400373",
+		};
+		["angryemotion"] = {
+			SoundId = "rbxassetid://154157312",
+		};
+		["byeemotion"] = {
+			SoundId = "rbxassetid://154157386",
+		};
+		["confusedemotion"] = {
+			SoundId = "rbxassetid://154157416",
+		};
+		["cheeremotion"] = {
+			SoundId = "rbxassetid://154157524",
+		};
+		["hiemotion"] = {
+			SoundId = "rbxassetid://154147007",
+		};
+		["cryemotion"] = {
+			SoundId = "rbxassetid://154146535",
+		};
+		["thinkingemotion"] = {
+			SoundId = "rbxassetid://154157584",
+		};
+		["screamemotion"] = {
+			SoundId = "rbxassetid://154157563",
+		};
+		["clapemotion"] = {
+			SoundId = "rbxassetid://868687813",
+		};
+		["amazedemotion"] = {
+			SoundId = "rbxassetid://154157291",
+		};
+		["disgustemotion"] = {
+			SoundId = "rbxassetid://1598222229",
+		};
+		["shockedemotion"] = {
+			SoundId = "rbxassetid://1602111066",
+		};
+		["evilemotion"] = {
+			SoundId = "rbxassetid://1601659619",
+		};
+		["laughemotion"] = {
+			SoundId = "rbxassetid://154157543",
+		};
+		["magical chimes"] = {
+			SoundId = "rbxassetid://1994098397",
+		};
+		["petsleep"] = {
+			SoundId = "rbxassetid://327308420",
+		};
+		["petjoy"] = {
+			SoundId = "rbxassetid://327297398",
+		};
+		["petcry"] = {
+			SoundId = "rbxassetid://327125046",
+		};
+		["petsatisfied"] = {
+			SoundId = "rbxassetid://327324176",
+		};
+		["incorrectsound"] = {
+			SoundId = "rbxassetid://171400380",
+		};
+		["pointemotion"] = {
+			SoundId = "rbxassetid://154157593",
+		};
+		["correctsound"] = {
+			SoundId = "rbxassetid://175394617",
+		};
+		["deliveredpizza"] = {
+			SoundId = "rbxassetid://2014270275",
+		};
+		["deliveredpizza2"] = {
+			SoundId = "rbxassetid://2014269890",
+		};
+		["bubbleup"] = {
+			SoundId = "rbxassetid://171406032",
+		};
+		["ovendooropen"] = {
+			SoundId = "rbxassetid://1034176464",
+		};
+		["ovending"] = {
+			SoundId = "rbxassetid://141612921",
+		};
+		["ovensizzle"] = {
+			SoundId = "rbxassetid://171671555",
+		};
+		["doughplop"] = {
+			SoundId = "rbxassetid://1034175517",
+		};
+		["sodaexplode"] = {
+			SoundId = "rbxassetid://5554520321",
+		};
+		["bugscreams"] = {
+			SoundId = "rbxassetid://1204530333",
+		};
+		["wrench"] = {
+			SoundId = "rbxassetid://3964793139",
+		};
+		["plushsqueek"] = {
+			SoundId = "rbxassetid://3964878682",
+		};
+		["angrysound2"] = {
+			SoundId = "rbxassetid://620887307",
+		};
+		["leafblower"] = {
+			SoundId = "rbxassetid://3964627704",
+		};
+		["smokealarm"] = {
+			SoundId = "rbxassetid://1034176638",
+		};
+		["appleringtone1"] = {
+			SoundId = "rbxassetid://2662689052",
+		};
+		
+		--Arsenal
+		["halloweenghostwav"] = {
+			SoundId = "rbxassetid://12229501",
+		};
+		["cashregister"] = {
+			SoundId = "rbxassetid://359623376",
+		};
+		["girldeath2"] = {
+			SoundId = "rbxassetid://4526343635",
+		};
+		["vchordwav"] = {
+			SoundId = "rbxassetid://1089407",
+		};
+		["saxxyimpactsound"] = {
+			SoundId = "rbxassetid://507951071",
+		};
+		
+		--Jailbreak
+		["ELock_F"] = {
+			SoundId = "rbxassetid://700180643",
+		};
+		["car_siren"] = {
+			SoundId = "rbxassetid://690529934",
+		};
+		["jailbreakcollect"] = {
+			SoundId = "rbxassetid://2671105783",
+		};
+		["fireworkbang"] = {
+			SoundId = "rbxassetid://737592495",
+		};
+		["jailbreaktaser"] = {
+			SoundId = "rbxassetid://754972373",
+		};
+		["cellphonering"] = {
+			SoundId = "rbxassetid://6036722952",
+		};
+		["darthvaderno"] = {
+			SoundId = "rbxassetid://133673700",
+		};
+		["scaryhorn"] = {
+			SoundId = "rbxassetid://5128574531",
+		};
+		["jailbreaktrainhorn"] = {
+			SoundId = "rbxassetid://690528575",
+		};
+		
+		--EpicMinigames
+		["gavelbang"] = {
+			SoundId = "rbxassetid://44061611",
+		};
+		["clubbonk"] = {
+			SoundId = "rbxassetid://4164190231",
+		};
+		["punchface"] = {
+			SoundId = "rbxassetid://186936370",
+		};
+		["pouringmilk"] = {
+			SoundId = "rbxassetid://21391806",
+		};
+		["strawsip"] = {
+			SoundId = "rbxassetid://21391849",
+		};
+		["monkeynoise"] = {
+			SoundId = "rbxassetid://22953973",
+		};
+		["hooraysound"] = {
+			SoundId = "rbxassetid://22953948",
+		};
+		["sax4"] = {
+			SoundId = "rbxassetid://30243559",
+		};
+		["sax1"] = {
+			SoundId = "rbxassetid://30243493",
+		};
+		["crowdcheering"] = {
+			SoundId = "rbxassetid://21343225",
+		};
 	},
-	
+
 	images = {
 		["creepy clown"] = { 
 			ImageId = "rbxassetid://"..1103899868, 
