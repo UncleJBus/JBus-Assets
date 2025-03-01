@@ -1,4 +1,4 @@
---v0.5.1
+--v0.5.2
 return {
 	--[[
 		[""] = {
@@ -5562,19 +5562,19 @@ return {
 			ImageId = "http://www.roblox.com/asset/?id=535406479",
 		};
 		["Horse Spring Legs"] = {
-			ImageId = "rbxassetid://horse with spring legs",
+			ImageId = "rbxassetid://71479418669183",
 		};
 		["Horse Spring Legs_2"] = {
-			ImageId = "rbxassetid://horse with spring legs",
+			ImageId = "rbxassetid://71479418669183",
 		};
 		["Horse Spring Legs_3"] = {
-			ImageId = "rbxassetid://horse with spring legs",
+			ImageId = "rbxassetid://71479418669183",
 		};
 		["Horse Spring Legs_4"] = {
-			ImageId = "rbxassetid://horse with spring legs",
+			ImageId = "rbxassetid://71479418669183",
 		};
 		["Horse Spring Legs_5"] = {
-			ImageId = "rbxassetid://horse with spring legs",
+			ImageId = "rbxassetid://71479418669183",
 		};
 	},
 }
