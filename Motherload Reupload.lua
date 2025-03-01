@@ -1,4 +1,4 @@
---v0.4.0
+--v0.5.0
 return {
 	--[[
 		[""] = {
@@ -1290,6 +1290,1091 @@ return {
 		};
 		["crowdcheering"] = {
 			SoundId = "rbxassetid://21343225",
+		};
+		
+		--0.5.0
+		["HoHoho money"] = {
+			SoundId = "rbxassetid://86996513688038",
+		};
+		["You're Fired"] = {
+			SoundId = "rbxassetid://3401845462",
+		};
+		["0bama fire"] = {
+			SoundId = "rbxassetid://82537078172344",
+		};
+		["1988 Chevy Pickup Truck Rough Start Turn Off (SFX)"] = {
+			SoundId = "rbxassetid://9125346576",
+		};
+		["2,021 BMW M4 Competition engine off"] = {
+			SoundId = "rbxassetid://96066650287312",
+		};
+		["21 - 660Hz 0.15s, Off 0.15s"] = {
+			SoundId = "rbxassetid://91072655090313",
+		};
+		["2WayKev Audio"] = {
+			SoundId = "rbxassetid://113081332087656",
+		};
+		["40 Pizza Rolls"] = {
+			SoundId = "rbxassetid://492092285",
+		};
+		["AYO THE PIZZA BRUH"] = {
+			SoundId = "rbxassetid://8656851254",
+		};
+		["Ace Attorney - Take That! Voiceline"] = {
+			SoundId = "rbxassetid://7078730266",
+		};
+		["Ahhh (Disappearing Scream Meme) - Sound Effect (1)"] = {
+			SoundId = "rbxassetid://7772283448",
+		};
+		["Air Tool Pneumatic 2 (SFX)"] = {
+			SoundId = "rbxassetid://9113077172",
+		};
+		["Alarm"] = {
+			SoundId = "rbxassetid://227682498",
+		};
+		["Alien_Groan_01"] = {
+			SoundId = "rbxassetid://244509446",
+		};
+		["Alien_Moan_03"] = {
+			SoundId = "rbxassetid://244510642",
+		};
+		["All hands to battle stations!"] = {
+			SoundId = "rbxassetid://1140794646",
+		};
+		["Among us connection"] = {
+			SoundId = "rbxassetid://5708835281",
+		};
+		["Among us death"] = {
+			SoundId = "rbxassetid://5706660149",
+		};
+		["Anime Power up Time "] = {
+			SoundId = "rbxassetid://8456469821",
+		};
+		["Arknights - Blue Poison - Poison Kiss"] = {
+			SoundId = "rbxassetid://97886534448747",
+		};
+		["Audio_Egg_Open_-_Mythical"] = {
+			SoundId = "rbxassetid://99608180022223",
+		};
+		["Ayo The Pizza Here (this part only)"] = {
+			SoundId = "rbxassetid://6996859448",
+		};
+		["BEES_"] = {
+			SoundId = "rbxassetid://502284205",
+		};
+		["Baby Patrick meme"] = {
+			SoundId = "rbxassetid://4363473621",
+		};
+		["Baldi's Basics Plus: Computer Count Eight"] = {
+			SoundId = "rbxassetid://18424786220",
+		};
+		["Baldi's Basics Plus: Computer Count Five"] = {
+			SoundId = "rbxassetid://18424790621",
+		};
+		["Baldi's Basics Plus: Computer Count Four"] = {
+			SoundId = "rbxassetid://18424791774",
+		};
+		["Baldi's Basics Plus: Computer Count Nine"] = {
+			SoundId = "rbxassetid://18424784891",
+		};
+		["Baldi's Basics Plus: Computer Count One"] = {
+			SoundId = "rbxassetid://18424798146",
+		};
+		["Baldi's Basics Plus: Computer Count Seven"] = {
+			SoundId = "rbxassetid://18424787513",
+		};
+		["Baldi's Basics Plus: Computer Count Six"] = {
+			SoundId = "rbxassetid://18424789301",
+		};
+		["Baldi's Basics Plus: Computer Count Three"] = {
+			SoundId = "rbxassetid://18424795516",
+		};
+		["Baldi's Basics Plus: Computer Count Two"] = {
+			SoundId = "rbxassetid://18424796717",
+		};
+		["Baldi's Basics Plus: Computer Count Zero"] = {
+			SoundId = "rbxassetid://18424783440",
+		};
+		["Bazinga!"] = {
+			SoundId = "rbxassetid://17640737174",
+		};
+		["Bear trap"] = {
+			SoundId = "rbxassetid://2019418800",
+		};
+		["Bee Noise Free Sound Effects Animal Sounds"] = {
+			SoundId = "rbxassetid://2668843821",
+		};
+		["Bees"] = {
+			SoundId = "rbxassetid://275494875",
+		};
+		["Bees Screamer"] = {
+			SoundId = "rbxassetid://1843027528",
+		};
+		["Belief - Hit"] = {
+			SoundId = "rbxassetid://9039885549",
+		};
+		["Benz F"] = {
+			SoundId = "rbxassetid://9044002974",
+		};
+		["Best of luck"] = {
+			SoundId = "rbxassetid://9021651970",
+		};
+		["Big Finish E"] = {
+			SoundId = "rbxassetid://1845846531",
+		};
+		["Big Mouth"] = {
+			SoundId = "rbxassetid://6882747359",
+		};
+		["Black Mesa smg fire"] = {
+			SoundId = "rbxassetid://8029940777",
+		};
+		["Boneless Pizza"] = {
+			SoundId = "rbxassetid://2168755332",
+		};
+		["Bruh meme"] = {
+			SoundId = "rbxassetid://6349641063",
+		};
+		["Caca is Spanish for pizza"] = {
+			SoundId = "rbxassetid://5693173786",
+		};
+		["CallMeCarson Crying 1"] = {
+			SoundId = "rbxassetid://5017994545",
+		};
+		["CallMeCarson Crying 2"] = {
+			SoundId = "rbxassetid://5017995580",
+		};
+		["Caprice De La Vie (g)"] = {
+			SoundId = "rbxassetid://1847198461",
+		};
+		["Carson SA Siren Party"] = {
+			SoundId = "rbxassetid://4145492644",
+		};
+		["Cash"] = {
+			SoundId = "rbxassetid://140176678934009",
+		};
+		["Cat Sound (Meow) - Man Paint"] = {
+			SoundId = "rbxassetid://7148585764",
+		};
+		["Checkpoint"] = {
+			SoundId = "rbxassetid://1301186018",
+		};
+		["Coca cola espuma"] = {
+			SoundId = "rbxassetid://92175423082594",
+		};
+		["Cola Fall 1"] = {
+			SoundId = "rbxassetid://107630062877234",
+		};
+		["Cola Fall 2"] = {
+			SoundId = "rbxassetid://85717512034672",
+		};
+		["Command rejected"] = {
+			SoundId = "rbxassetid://121445890268956",
+		};
+		["Computer Alarm High Pitch Rizzy Beeps 1 (SFX)"] = {
+			SoundId = "rbxassetid://9113865591",
+		};
+		["Computer Alarm Rapid Rizzy Beeps Constant 1 (SFX)"] = {
+			SoundId = "rbxassetid://9113865774",
+		};
+		["Computer Ambience"] = {
+			SoundId = "rbxassetid://485115792",
+		};
+		["Computer Beeps And Tones Synth Hits Bright 6 (SFX)"] = {
+			SoundId = "rbxassetid://9113867368",
+		};
+		["Computer Crash Buzzing Sound"] = {
+			SoundId = "rbxassetid://603266135",
+		};
+		["Computer Error"] = {
+			SoundId = "rbxassetid://144130832",
+		};
+		["Computer Keyboard 72 (SFX)"] = {
+			SoundId = "rbxassetid://9113873548",
+		};
+		["Computer Keyboard 8 (SFX)"] = {
+			SoundId = "rbxassetid://9113874076",
+		};
+		["Computer Keyboard Beep 6 (SFX)"] = {
+			SoundId = "rbxassetid://9113880610",
+		};
+		["Computer Startup"] = {
+			SoundId = "rbxassetid://5610058792",
+		};
+		["ContrabandDetected"] = {
+			SoundId = "rbxassetid://99781419398891",
+		};
+		["Creature Growls Lion Deep Guttural Rumbling  (SFX)"] = {
+			SoundId = "rbxassetid://9125470978",
+		};
+		["Creature roar finished edits"] = {
+			SoundId = "rbxassetid://111914021829522",
+		};
+		["Crush"] = {
+			SoundId = "rbxassetid://92509471901822",
+		};
+		["Crying Ghosts - Halloween sound"] = {
+			SoundId = "rbxassetid://472763153",
+		};
+		["DRAGON BALL SUPER Ultra Instinct (Trap Remix) "] = {
+			SoundId = "rbxassetid://2261507666",
+		};
+		["Distant City Traffic 2 (SFX)"] = {
+			SoundId = "rbxassetid://9112770782",
+		};
+		["Donald Trump - Wrong Sound Effect"] = {
+			SoundId = "rbxassetid://2781528288",
+		};
+		["Drinking"] = {
+			SoundId = "rbxassetid://138745279701248",
+		};
+		["Drip Drop (stinger)"] = {
+			SoundId = "rbxassetid://9042394319",
+		};
+		["ENEMY TANK COMING"] = {
+			SoundId = "rbxassetid://756197634",
+		};
+		["Ed Edd n Eddy Punch 1"] = {
+			SoundId = "rbxassetid://122569874658714",
+		};
+		["Edwards Vigilant Severe Weather Message"] = {
+			SoundId = "rbxassetid://439620028",
+		};
+		["Eleanor says stili is stupid"] = {
+			SoundId = "rbxassetid://7940682145",
+		};
+		["Elevator Alarm Bell Emergency Several Rings  (SFX)"] = {
+			SoundId = "rbxassetid://9125544285",
+		};
+		["Error Invalid Password"] = {
+			SoundId = "rbxassetid://89732586057985",
+		};
+		["Eu tenho money"] = {
+			SoundId = "rbxassetid://104594381683016",
+		};
+		["Exotic Pizza"] = {
+			SoundId = "rbxassetid://549619805",
+		};
+		["Extreme dank sfx"] = {
+			SoundId = "rbxassetid://1099743985",
+		};
+		["Eyebrow"] = {
+			SoundId = "rbxassetid://131707458340993",
+		};
+		["FNaF Announcer Freddy Fazbear’s Pizza Is Closing"] = {
+			SoundId = "rbxassetid://3950467319",
+		};
+		["Family Guy - Soccer horn"] = {
+			SoundId = "rbxassetid://5171923555",
+		};
+		["Family Guy - Who The Hell Cares"] = {
+			SoundId = "rbxassetid://8024712354",
+		};
+		["Family Guy Meg and Lois"] = {
+			SoundId = "rbxassetid://8724367184",
+		};
+		["Family Guy Oh Yeah Kool-Aid Man Parody"] = {
+			SoundId = "rbxassetid://2790295102",
+		};
+		["Family Guy Sheesh Meme"] = {
+			SoundId = "rbxassetid://7177492068",
+		};
+		["Family Guy- Giant Samsung phone becomes Kia car"] = {
+			SoundId = "rbxassetid://5081767059",
+		};
+		["Family Guy- I'm a Tumor"] = {
+			SoundId = "rbxassetid://989731521",
+		};
+		["Family Guy: Peter Griffin Laugh"] = {
+			SoundId = "rbxassetid://3706740802",
+		};
+		["Family guy Asian dry cleaner"] = {
+			SoundId = "rbxassetid://5855868860",
+		};
+		["Finished"] = {
+			SoundId = "rbxassetid://3318726694",
+		};
+		["Firespray-31-Class Patrol and Attack Craft Engines"] = {
+			SoundId = "rbxassetid://455104428",
+		};
+		["Flight questions KFC"] = {
+			SoundId = "rbxassetid://5263575140",
+		};
+		["Four"] = {
+			SoundId = "rbxassetid://136295901672449",
+		};
+		["Freightliner Horn"] = {
+			SoundId = "rbxassetid://6527168058",
+		};
+		["Fuzzy Buzz Synth Echoing Blasts Several Puls (SFX)"] = {
+			SoundId = "rbxassetid://9125570474",
+		};
+		["Gas - Jerma985"] = {
+			SoundId = "rbxassetid://6968894369",
+		};
+		["German Ellis HurtMinor01"] = {
+			SoundId = "rbxassetid://6326905490",
+		};
+		["German Ellis HurtMinor07"] = {
+			SoundId = "rbxassetid://6326927982",
+		};
+		["Get Ready"] = {
+			SoundId = "rbxassetid://139243807854470",
+		};
+		["Gimme Sauce Sting 2"] = {
+			SoundId = "rbxassetid://9047104263",
+		};
+		["Glamrock Chica saying pizza"] = {
+			SoundId = "rbxassetid://8531572305",
+		};
+		["Graphic Movement Computer Scrolling Beeps 1 (SFX)"] = {
+			SoundId = "rbxassetid://9114647751",
+		};
+		["Half Life 1 SFX - Computer Ambiance 2"] = {
+			SoundId = "rbxassetid://6489160474",
+		};
+		["Half Life Scientist Fear: No I dont Want to Die!"] = {
+			SoundId = "rbxassetid://4998933287",
+		};
+		["Half-Life 2: Lost Biosignal for Protection Unit"] = {
+			SoundId = "rbxassetid://80924439197950",
+		};
+		["Hank Hill: Your A Loser!"] = {
+			SoundId = "rbxassetid://138099678",
+		};
+		["Happy Wheels Jacksepticeye"] = {
+			SoundId = "rbxassetid://205064396",
+		};
+		["Heavy Pizza"] = {
+			SoundId = "rbxassetid://5424890377",
+		};
+		["Hello your computer has virus"] = {
+			SoundId = "rbxassetid://6410047369",
+		};
+		["Hello your computer has virus meme audio"] = {
+			SoundId = "rbxassetid://6660458695",
+		};
+		["Hold it!"] = {
+			SoundId = "rbxassetid://665546322",
+		};
+		["Horror Violin Sound"] = {
+			SoundId = "rbxassetid://3371136571",
+		};
+		["I lied"] = {
+			SoundId = "rbxassetid://18881263126",
+		};
+		["I like my cheese drippy meme"] = {
+			SoundId = "rbxassetid://135682068805947",
+		};
+		["I'm A Pizza!"] = {
+			SoundId = "rbxassetid://8545287722",
+		};
+		["I'm Glenn Quagmire - Family Guy"] = {
+			SoundId = "rbxassetid://7229804590",
+		};
+		["IWubYou2"] = {
+			SoundId = "rbxassetid://134614658659885",
+		};
+		["If you finish this obby you get admin"] = {
+			SoundId = "rbxassetid://3397527336",
+		};
+		["Illusions"] = {
+			SoundId = "rbxassetid://132607130224687",
+		};
+		["Imhereforyou"] = {
+			SoundId = "rbxassetid://101615994128526",
+		};
+		["It's over"] = {
+			SoundId = "rbxassetid://125475915155254",
+		};
+		["Japanese Fire Truck PA"] = {
+			SoundId = "rbxassetid://4611952354",
+		};
+		["Jayza Audio"] = {
+			SoundId = "rbxassetid://90466811784637",
+		};
+		["Jerma bear "] = {
+			SoundId = "rbxassetid://121981181989348",
+		};
+		["Jontron - Pizza Flavored Pringles"] = {
+			SoundId = "rbxassetid://4360255795",
+		};
+		["KFC"] = {
+			SoundId = "rbxassetid://7094606076",
+		};
+		["KONE KSS 500 Chime Down"] = {
+			SoundId = "rbxassetid://18553579150",
+		};
+		["KONE KSS 500 Chime Up"] = {
+			SoundId = "rbxassetid://18553579383",
+		};
+		["LOUD quick fart meme"] = {
+			SoundId = "rbxassetid://8551016315",
+		};
+		["Last Stop"] = {
+			SoundId = "rbxassetid://115335835693758",
+		};
+		["Laugh_"] = {
+			SoundId = "rbxassetid://86209041975102",
+		};
+		["Leon Death"] = {
+			SoundId = "rbxassetid://5685942507",
+		};
+		["Leon Death2"] = {
+			SoundId = "rbxassetid://5685991550",
+		};
+		["Leon Pain2"] = {
+			SoundId = "rbxassetid://5685987603",
+		};
+		["Leon Pain3"] = {
+			SoundId = "rbxassetid://5685987889",
+		};
+		["Leon Uh Oh"] = {
+			SoundId = "rbxassetid://5685964606",
+		};
+		["Light Shut Off"] = {
+			SoundId = "rbxassetid://3466798390",
+		};
+		["Lion Roar Short Blast Attack Angry Sharp 2 (SFX)"] = {
+			SoundId = "rbxassetid://9116302323",
+		};
+		["MGM Lion Roar"] = {
+			SoundId = "rbxassetid://948364904",
+		};
+		["MUSTARD"] = {
+			SoundId = "rbxassetid://74120482730232",
+		};
+		["MY ARM!"] = {
+			SoundId = "rbxassetid://126604027003720",
+		};
+		["Markiplier - First Night is Never Usually That Bad"] = {
+			SoundId = "rbxassetid://7398226850",
+		};
+		["Markiplier Eats Microphone"] = {
+			SoundId = "rbxassetid://7731557722",
+		};
+		["Markiplier purple guy"] = {
+			SoundId = "rbxassetid://4967793063",
+		};
+		["Meow (Deep)"] = {
+			SoundId = "rbxassetid://136827228743606",
+		};
+		["Meow (High)"] = {
+			SoundId = "rbxassetid://91744536780419",
+		};
+		["Meow (Multiple)"] = {
+			SoundId = "rbxassetid://88539273926474",
+		};
+		["Money"] = {
+			SoundId = "rbxassetid://3020841054",
+		};
+		["Money Train Horn"] = {
+			SoundId = "rbxassetid://7667962326",
+		};
+		["Moog Bullet 9"] = {
+			SoundId = "rbxassetid://1842267650",
+		};
+		["Mordecai and Rigby  OOOOH!!"] = {
+			SoundId = "rbxassetid://129685441050504",
+		};
+		["Mouse Click"] = {
+			SoundId = "rbxassetid://4925151540",
+		};
+		["Mr Krabs money!"] = {
+			SoundId = "rbxassetid://8506497442",
+		};
+		["Musket Make Ready"] = {
+			SoundId = "rbxassetid://9103984000",
+		};
+		["Nail Gun Large Pneumatic Air Bursts 4 (SFX)"] = {
+			SoundId = "rbxassetid://9117049470",
+		};
+		["Nightmare Whispers Several Unintelligible 1 (SFX)"] = {
+			SoundId = "rbxassetid://9117118928",
+		};
+		["Nope meme sound"] = {
+			SoundId = "rbxassetid://6346074926",
+		};
+		["Nuke"] = {
+			SoundId = "rbxassetid://6435404036",
+		};
+		["Number 2 Pa"] = {
+			SoundId = "rbxassetid://82205139294295",
+		};
+		["OH ( ayo the pizza here)"] = {
+			SoundId = "rbxassetid://7555706416",
+		};
+		["OUTLAST Laboratory Siren"] = {
+			SoundId = "rbxassetid://6142586720",
+		};
+		["Oh no she didn't - Family Guy"] = {
+			SoundId = "rbxassetid://7224422552",
+		};
+		["Old JKRF Alarm"] = {
+			SoundId = "rbxassetid://609189496",
+		};
+		["Older (1990s-2000s) Dewhurst Chime: Up"] = {
+			SoundId = "rbxassetid://18730559583",
+		};
+		["Ouch I Burnt My Mouth On Pizza"] = {
+			SoundId = "rbxassetid://2188969063",
+		};
+		["Owl Hooting Reverberant Dry Several 1 (SFX)"] = {
+			SoundId = "rbxassetid://9117181035",
+		};
+		["Owl Hooting Reverberant Several 1 (SFX)"] = {
+			SoundId = "rbxassetid://9117181540",
+		};
+		["Owl Hooting Reverberant Several 2 (SFX)"] = {
+			SoundId = "rbxassetid://9117181886",
+		};
+		["PIZZA AAAAAAAAAAAAAAAAAAA"] = {
+			SoundId = "rbxassetid://781293644",
+		};
+		["PIZZA!"] = {
+			SoundId = "rbxassetid://882426423",
+		};
+		["Papa's Pizza"] = {
+			SoundId = "rbxassetid://8545186549",
+		};
+		["Pho Cough"] = {
+			SoundId = "rbxassetid://90128052762994",
+		};
+		["Pick_up_treasure"] = {
+			SoundId = "rbxassetid://3199239299",
+		};
+		["Pizza_"] = {
+			SoundId = "rbxassetid://1162065032",
+		};
+		["Pizza Fresh"] = {
+			SoundId = "rbxassetid://2850078197",
+		};
+		["Pizza Munch"] = {
+			SoundId = "rbxassetid://4426157248",
+		};
+		["Pizza Time"] = {
+			SoundId = "rbxassetid://2471973497",
+		};
+		["Pizza Tower - sfx_scream7"] = {
+			SoundId = "rbxassetid://7658579058",
+		};
+		["Pizza in chinese"] = {
+			SoundId = "rbxassetid://7142039035",
+		};
+		["Plastic Bag Breathing 1 (SFX)"] = {
+			SoundId = "rbxassetid://9117407030",
+		};
+		["Please"] = {
+			SoundId = "rbxassetid://138420497212344",
+		};
+		["Police Patrol"] = {
+			SoundId = "rbxassetid://1838959280",
+		};
+		["Portal turret saying searching"] = {
+			SoundId = "rbxassetid://5632608147",
+		};
+		["Postal - Ghetto Beat"] = {
+			SoundId = "rbxassetid://5872022218",
+		};
+		["Postal Dude - Have a Nice Day!"] = {
+			SoundId = "rbxassetid://8105752302",
+		};
+		["Postal Dude For Mother"] = {
+			SoundId = "rbxassetid://5811965308",
+		};
+		["Postal Dude Petition Quote E"] = {
+			SoundId = "rbxassetid://734529563",
+		};
+		["Postal Dude Quote 2"] = {
+			SoundId = "rbxassetid://2566176562",
+		};
+		["Postal Dude omg"] = {
+			SoundId = "rbxassetid://5811982297",
+		};
+		["Postal_2_Arcade_"] = {
+			SoundId = "rbxassetid://6678172126",
+		};
+		["Postal_2_Arcade_2"] = {
+			SoundId = "rbxassetid://6678172126",
+		};
+		["Postal_2_Arcade_3"] = {
+			SoundId = "rbxassetid://6678172126",
+		};
+		["Postal_2_Arcade_4"] = {
+			SoundId = "rbxassetid://6678172126",
+		};
+		["Postal_2_Arcade_5"] = {
+			SoundId = "rbxassetid://6678172126",
+		};
+		["Psych Engine - Dialog Character"] = {
+			SoundId = "rbxassetid://8495405722",
+		};
+		["Pumping Machine #1"] = {
+			SoundId = "rbxassetid://15399348936",
+		};
+		["Punch 3"] = {
+			SoundId = "rbxassetid://2174934844",
+		};
+		["Reactor Explosion Countdown"] = {
+			SoundId = "rbxassetid://8327947932",
+		};
+		["Ready And Rough"] = {
+			SoundId = "rbxassetid://1836846781",
+		};
+		["Ready And Rough_2"] = {
+			SoundId = "rbxassetid://1836846781",
+		};
+		["Ready Or Not, Here I Come! (Baldi's basics)"] = {
+			SoundId = "rbxassetid://5126186479",
+		};
+		["Ready To Fight D"] = {
+			SoundId = "rbxassetid://1845817066",
+		};
+		["Ready To Rock E"] = {
+			SoundId = "rbxassetid://1845787520",
+		};
+		["Ready to Fire"] = {
+			SoundId = "rbxassetid://146767829",
+		};
+		["Reeses puffs eat em up , just dance meme video"] = {
+			SoundId = "rbxassetid://6647947988",
+		};
+		["Regular Show Intro Boosted"] = {
+			SoundId = "rbxassetid://8019957151",
+		};
+		["Regular Show Intro Boosted_2"] = {
+			SoundId = "rbxassetid://8019957151",
+		};
+		["Regular Show Intro Boosted_3"] = {
+			SoundId = "rbxassetid://8019957151",
+		};
+		["Regular Show Intro Boosted_4"] = {
+			SoundId = "rbxassetid://8019957151",
+		};
+		["Regular Show Intro Boosted_5"] = {
+			SoundId = "rbxassetid://8019957151",
+		};
+		["Robert Loggia - Family Guy"] = {
+			SoundId = "rbxassetid://445891005",
+		};
+		["SCP CB: PA Announcement Pizza Day 200+ TAKES!!"] = {
+			SoundId = "rbxassetid://156045653",
+		};
+		["SIR GET DOWN"] = {
+			SoundId = "rbxassetid://7008537870",
+		};
+		["SIR GET DOWN_2"] = {
+			SoundId = "rbxassetid://7008537870",
+		};
+		["SIR GET DOWN_3"] = {
+			SoundId = "rbxassetid://7008537870",
+		};
+		["SIR GET DOWN_4"] = {
+			SoundId = "rbxassetid://7008537870",
+		};
+		["SIR GET DOWN_5"] = {
+			SoundId = "rbxassetid://7008537870",
+		};
+		["Salak"] = {
+			SoundId = "rbxassetid://131988689126197",
+		};
+		["Santa Tackle (YTPMV Elf Origin) - Elf"] = {
+			SoundId = "rbxassetid://8232444722",
+		};
+		["Santa's Sleigh"] = {
+			SoundId = "rbxassetid://9038470580",
+		};
+		["Sausage Mushroom Pizza"] = {
+			SoundId = "rbxassetid://2154985518",
+		};
+		["Save/Character Select - Sonic EXE NB"] = {
+			SoundId = "rbxassetid://844208899",
+		};
+		["Scary Sound"] = {
+			SoundId = "rbxassetid://157636218",
+		};
+		["Scream 4003_13_5_"] = {
+			SoundId = "rbxassetid://8749386406",
+		};
+		["Sea horse"] = {
+			SoundId = "rbxassetid://113752495039857",
+		};
+		["Security Patrolling"] = {
+			SoundId = "rbxassetid://3965804874",
+		};
+		["Servo Bursts Longer Whirs Lower Pitch Swells (SFX)"] = {
+			SoundId = "rbxassetid://9125922227",
+		};
+		["Show Some Teeth (sting)"] = {
+			SoundId = "rbxassetid://9043750435",
+		};
+		["Siren Sound"] = {
+			SoundId = "rbxassetid://8584754036",
+		};
+		["Six"] = {
+			SoundId = "rbxassetid://118501020412189",
+		};
+		["Slime Rancher - UI Notification Pop-Up"] = {
+			SoundId = "rbxassetid://8486683243",
+		};
+		["Sonic Unleashed (JPN) - Ready! Go!"] = {
+			SoundId = "rbxassetid://5258266835",
+		};
+		["Sound1"] = {
+			SoundId = "rbxassetid://6826153498",
+		};
+		["Soundoff Signal nENERGY 400 Airhorn"] = {
+			SoundId = "rbxassetid://95225696568804",
+		};
+		["Spago Kitchen 1 (SFX)"] = {
+			SoundId = "rbxassetid://9112875377",
+		};
+		["Splatoon Special Ready SFX"] = {
+			SoundId = "rbxassetid://136083888766175",
+		};
+		["Spray Bottle 3 (SFX)"] = {
+			SoundId = "rbxassetid://9119520625",
+		};
+		["Squid Game money sound"] = {
+			SoundId = "rbxassetid://8166751254",
+		};
+		["Static Rough 11 (SFX)"] = {
+			SoundId = "rbxassetid://9119591819",
+		};
+		["Sting Like A Bee"] = {
+			SoundId = "rbxassetid://74945890302889",
+		};
+		["Swarm Of Bees (Sound)"] = {
+			SoundId = "rbxassetid://113918398276738",
+		};
+		["Swoosh 2"] = {
+			SoundId = "rbxassetid://2174939926",
+		};
+		["Swoosh 3"] = {
+			SoundId = "rbxassetid://2174940386",
+		};
+		["TF2 Computer Ambience"] = {
+			SoundId = "rbxassetid://7009875450",
+		};
+		["THE PIZZA IS AGRESSIVE"] = {
+			SoundId = "rbxassetid://136700317",
+		};
+		["Taco Bell (Meme Bell Sound)"] = {
+			SoundId = "rbxassetid://6832470734",
+		};
+		["Tantrum Scream_"] = {
+			SoundId = "rbxassetid://6774464872",
+		};
+		["Target Lost"] = {
+			SoundId = "rbxassetid://7980787822",
+		};
+		["Terezi pizza"] = {
+			SoundId = "rbxassetid://136470252859307",
+		};
+		["Terrified Scream Hitsound for Forsaken"] = {
+			SoundId = "rbxassetid://98257877073948",
+		};
+		["Terror Trap Metal Hit"] = {
+			SoundId = "rbxassetid://9040542267",
+		};
+		["Thanks for Calling Pizza Hut"] = {
+			SoundId = "rbxassetid://4981364019",
+		};
+		["The Joker"] = {
+			SoundId = "rbxassetid://1839301831",
+		};
+		["The Most Annoying Sound In The World"] = {
+			SoundId = "rbxassetid://329355920",
+		};
+		["Trap Swing Hustle (sting b)"] = {
+			SoundId = "rbxassetid://9045807976",
+		};
+		["Trap-Sound"] = {
+			SoundId = "rbxassetid://9091607929",
+		};
+		["Trump - Turn Off the Lights"] = {
+			SoundId = "rbxassetid://627208685",
+		};
+		["Turret_disabled_3"] = {
+			SoundId = "rbxassetid://8827874667",
+		};
+		["UFO Approach"] = {
+			SoundId = "rbxassetid://1836178309",
+		};
+		["UFO Taking Off"] = {
+			SoundId = "rbxassetid://162670145",
+		};
+		["Undertale Sound Effect - Finishing Puzzle"] = {
+			SoundId = "rbxassetid://4841526900",
+		};
+		["WarioWare Gold - It's Pizza Time"] = {
+			SoundId = "rbxassetid://2177090744",
+		};
+		["Warzone Plane Ready Deploy Beep"] = {
+			SoundId = "rbxassetid://97492353558585",
+		};
+		["Weird Alien"] = {
+			SoundId = "rbxassetid://9040777003",
+		};
+		["Welcome to the filthy frank show"] = {
+			SoundId = "rbxassetid://5167853208",
+		};
+		["What"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_2"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_3"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_4"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_5"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_6"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_7"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_8"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_9"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["What_10"] = {
+			SoundId = "rbxassetid://77948684316429",
+		};
+		["Willyoubemyfriend2"] = {
+			SoundId = "rbxassetid://132870320730723",
+		};
+		["YTP: Phineas and Ferb ReeR"] = {
+			SoundId = "rbxassetid://2801614182",
+		};
+		["You are TERMINATED"] = {
+			SoundId = "rbxassetid://18881269316",
+		};
+		["You finished the race"] = {
+			SoundId = "rbxassetid://123657397644465",
+		};
+		["Zay Checkmate"] = {
+			SoundId = "rbxassetid://101444751347318",
+		};
+		["Zebra"] = {
+			SoundId = "rbxassetid://79634051289612",
+		};
+		["[Joel] Free Pizza"] = {
+			SoundId = "rbxassetid://2253673209",
+		};
+		["airport_rough_crash_seq"] = {
+			SoundId = "rbxassetid://4941242313",
+		};
+		["aqsd"] = {
+			SoundId = "rbxassetid://76412258978906",
+		};
+		["ayo the pizzas here"] = {
+			SoundId = "rbxassetid://5525467333",
+		};
+		["ayo the pizzas here_2"] = {
+			SoundId = "rbxassetid://5525467333",
+		};
+		["ayo the pizzas here_3"] = {
+			SoundId = "rbxassetid://5525467333",
+		};
+		["ayo the pizzas here_4"] = {
+			SoundId = "rbxassetid://5525467333",
+		};
+		["ayo the pizzas here_5"] = {
+			SoundId = "rbxassetid://5525467333",
+		};
+		["bazinga"] = {
+			SoundId = "rbxassetid://4653362545",
+		};
+		["bazinga car crash"] = {
+			SoundId = "rbxassetid://5165289097",
+		};
+		["better behave"] = {
+			SoundId = "rbxassetid://131582591549088",
+		};
+		["body_medium_scrape_smooth_loop1"] = {
+			SoundId = "rbxassetid://73276973960338",
+		};
+		["bro, watch your jet meme"] = {
+			SoundId = "rbxassetid://4910368846",
+		};
+		["burn pizza pete"] = {
+			SoundId = "rbxassetid://656222908",
+		};
+		["chica-pizza-sound-edited"] = {
+			SoundId = "rbxassetid://73270405391070",
+		};
+		["chomp"] = {
+			SoundId = "rbxassetid://6548799955",
+		};
+		["computer glitch audio"] = {
+			SoundId = "rbxassetid://261227592",
+		};
+		["computer turn on"] = {
+			SoundId = "rbxassetid://4448964821",
+		};
+		["concrete figure "] = {
+			SoundId = "rbxassetid://8071888815",
+		};
+		["cpu fan error computer beep sound effect"] = {
+			SoundId = "rbxassetid://2626561747",
+		};
+		["danger alarm meme"] = {
+			SoundId = "rbxassetid://9068077052",
+		};
+		["deez"] = {
+			SoundId = "rbxassetid://6138144190",
+		};
+		["eat first"] = {
+			SoundId = "rbxassetid://17679079438",
+		};
+		["ellen joe tackle"] = {
+			SoundId = "rbxassetid://137927369216466",
+		};
+		["family guy trumpet"] = {
+			SoundId = "rbxassetid://124310620630672",
+		};
+		["feet"] = {
+			SoundId = "rbxassetid://3650828889",
+		};
+		["filthy frank KNOW YOUR PLACE TRASH"] = {
+			SoundId = "rbxassetid://7355090174",
+		};
+		["filthy frank KNOW YOUR PLACE TRASH 2"] = {
+			SoundId = "rbxassetid://7402688816",
+		};
+		["finish"] = {
+			SoundId = "rbxassetid://1425687977",
+		};
+		["fred"] = {
+			SoundId = "rbxassetid://5721303340",
+		};
+		["get killed by kai"] = {
+			SoundId = "rbxassetid://9021014262",
+		};
+		["get ready to pwn some noobs"] = {
+			SoundId = "rbxassetid://273214048",
+		};
+		["hold-still- 2"] = {
+			SoundId = "rbxassetid://74226768543678",
+		};
+		["horror scary noise"] = {
+			SoundId = "rbxassetid://9080161598",
+		};
+		["i am reporting you"] = {
+			SoundId = "rbxassetid://2252677561",
+		};
+		["jerma screaming like an insane person"] = {
+			SoundId = "rbxassetid://6024910487",
+		};
+		["lil intro"] = {
+			SoundId = "rbxassetid://6938710214",
+		};
+		["markiplier"] = {
+			SoundId = "rbxassetid://6831109085",
+		};
+		["markiplier gets jumpscared by endo c mouth"] = {
+			SoundId = "rbxassetid://9049135366",
+		};
+		["meow"] = {
+			SoundId = "rbxassetid://1091083826",
+		};
+		["mix up 3"] = {
+			SoundId = "rbxassetid://90527562919812",
+		};
+		["mvm_money_pickup"] = {
+			SoundId = "rbxassetid://307631257",
+		};
+		["no"] = {
+			SoundId = "rbxassetid://90020507404690",
+		};
+		["old_start"] = {
+			SoundId = "rbxassetid://8770764531",
+		};
+		["pizza gear - equip sound effect (high quality)"] = {
+			SoundId = "rbxassetid://6830427075",
+		};
+		["pizza roll"] = {
+			SoundId = "rbxassetid://100105772899046",
+		};
+		["pizza tower taunt"] = {
+			SoundId = "rbxassetid://18247365685",
+		};
+		["pizza tower treasure "] = {
+			SoundId = "rbxassetid://9048938678",
+		};
+		["pizza-tower-noise-scream"] = {
+			SoundId = "rbxassetid://94008560120754",
+		};
+		["pls no hurt"] = {
+			SoundId = "rbxassetid://646481014",
+		};
+		["powercall"] = {
+			SoundId = "rbxassetid://132487108112637",
+		};
+		["powerup_collect"] = {
+			SoundId = "rbxassetid://4612377122",
+		};
+		["stop voting competitive"] = {
+			SoundId = "rbxassetid://6318510496",
+		};
+		["taco bell"] = {
+			SoundId = "rbxassetid://9056395962",
+		};
+		["taco bell aftermath"] = {
+			SoundId = "rbxassetid://9031620077",
+		};
+		["teddy"] = {
+			SoundId = "rbxassetid://117276740174343",
+		};
+		["tf2 sniper PIZZA TIME !"] = {
+			SoundId = "rbxassetid://4951420058",
+		};
+		["thanks (postal)"] = {
+			SoundId = "rbxassetid://84691647453749",
+		};
+		["this is a tesst"] = {
+			SoundId = "rbxassetid://18635669985",
+		};
+		["timer-finish"] = {
+			SoundId = "rbxassetid://267883066",
+		};
+		["toma"] = {
+			SoundId = "rbxassetid://8650277959",
+		};
+		["ui_buy"] = {
+			SoundId = "rbxassetid://4612383453",
+		};
+		["violin-screech-meme"] = {
+			SoundId = "rbxassetid://97169370786270",
+		};
+		["wood fired pizza"] = {
+			SoundId = "rbxassetid://3518085054",
+		};
+		["yappin boy"] = {
+			SoundId = "rbxassetid://96317306050138",
+		};
+		["yay im making money"] = {
+			SoundId = "rbxassetid://125087302348324",
+		};
+		["yep you're banned caseoh meme"] = {
+			SoundId = "rbxassetid://18486614207",
+		};
+		["ytp grunt"] = {
+			SoundId = "rbxassetid://5147662886",
+		};
+		["zombie evil laugh"] = {
+			SoundId = "rbxassetid://4810729995",
+		};
+		["THERES BLOOD IN THE BOX"] = {
+			SoundId = "rbxassetid://18949712610",
 		};
 	},
 
