@@ -1,4 +1,4 @@
---v0.5.0
+--v0.5.1
 return {
 	--[[
 		[""] = {
@@ -5560,6 +5560,21 @@ return {
 		};
 		["#### The Frog {Donald Trump}"] = {
 			ImageId = "http://www.roblox.com/asset/?id=535406479",
+		};
+		["Horse Spring Legs"] = {
+			ImageId = "rbxassetid://horse with spring legs",
+		};
+		["Horse Spring Legs_2"] = {
+			ImageId = "rbxassetid://horse with spring legs",
+		};
+		["Horse Spring Legs_3"] = {
+			ImageId = "rbxassetid://horse with spring legs",
+		};
+		["Horse Spring Legs_4"] = {
+			ImageId = "rbxassetid://horse with spring legs",
+		};
+		["Horse Spring Legs_5"] = {
+			ImageId = "rbxassetid://horse with spring legs",
 		};
 	},
 }
